@@ -1,6 +1,8 @@
-# path-editor
+# PFE Ember.
 
 This project, in charge for the city of Angers in France, was made for a PFE, a graduation project. It is a cyclist route calculator, to be put in the app of the city of Angers later. The server side use OSRM, and the client side use Ember and Leaflet to properly make the route calculator. 
+
+:warning: After we see OSRM was not a good solution for a cycling routing machine, we use another repository. [You can get it here. :arrow_right:](https://github.com/RemyCo/pfeEmberORS)
 
 ## Prerequisites
 
